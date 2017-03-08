@@ -469,8 +469,8 @@ body{min-width:320px}
 .u-layout--2up .u-layoutTable-item{width:50%}
 @media only screen and (max-width:735px){.u-layout--2up .u-layoutTable-item{width:auto}
 }
-.u-layout--3up .u-layout-item{width:33.33333%;float:left;padding-left:2.24323%;padding-right:2.24323%}
-@media only screen and (max-width:1068px){.u-layout--3up .u-layout-item{width:100%;float:none;padding-left:0;padding-right:0}
+.u-layout--3up .u-layout-item{width:28%;float:left;padding-left:2.24323%;padding-right:2.24323%}
+@media only screen and (max-width:1268px){.u-layout--3up .u-layout-item{width:100%;float:none;padding-left:0;padding-right:0}
 }
 @media only screen and (max-width:735px){.u-layout--3up .u-layout-item{width:auto;padding-left:0;padding-right:0}
 }
@@ -3857,8 +3857,8 @@ a.promo-item:hover .promo-title,a.promo-item:active .promo-title,a.promo-item:fo
 .sectionTitle-heading:lang(zh-MO){font-family:"SF Pro TC","SF Pro Display","SF Pro Icons","PingFang TC","Helvetica Neue","Helvetica","Arial",sans-serif}
 .sectionTitle-heading:lang(zh-TW){font-family:"SF Pro TC","SF Pro Display","SF Pro Icons","PingFang TC","Helvetica Neue","Helvetica","Arial",sans-serif}
 }
-.sectionTitle-intro{color:#333;max-width:83.33333%;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:0;font-size:17px;line-height:1.52947;font-weight:400;letter-spacing:-0.021em;font-family:"SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif}
-@media only screen and (max-width:735px){.sectionTitle-intro{max-width:none}
+.sectionTitle-intro{color:#333;max-width:100%;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:0;font-size:17px;line-height:1.52947;font-weight:400;letter-spacing:-0.021em;font-family:"SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif}
+@media only screen and (max-width:835px){.sectionTitle-intro{max-width:none}
 }
 .sectionTitle-intro:lang(ar){letter-spacing:0;font-family:"SF Pro AR","SF Pro Gulf","SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif}
 .sectionTitle-intro:lang(ja){letter-spacing:0;font-family:"SF Pro JP","SF Pro Text","SF Pro Icons","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ","Meiryo","ＭＳ Ｐゴシック","Helvetica Neue","Helvetica","Arial",sans-serif}
